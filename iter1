@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "<html>"
+echo "<head>"
+echo "  <title>"
+echo "  System Information"
+echo "  </title>"
+echo "</head>"
+echo "<body>"
+echo  "System information"
+echo "</body>"
+echo "</html>"
